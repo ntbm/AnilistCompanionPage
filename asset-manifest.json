@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AnilistCompanionPage/static/css/main.8a28c97b.css",
-    "main.js": "/AnilistCompanionPage/static/js/main.433c2568.js",
+    "main.css": "/AnilistCompanionPage/static/css/main.e3aee962.css",
+    "main.js": "/AnilistCompanionPage/static/js/main.99cd5de5.js",
     "static/js/787.2d0d59c3.chunk.js": "/AnilistCompanionPage/static/js/787.2d0d59c3.chunk.js",
     "static/media/Logo.png": "/AnilistCompanionPage/static/media/Logo.597e3357770861787e5b.png",
     "index.html": "/AnilistCompanionPage/index.html",
-    "main.8a28c97b.css.map": "/AnilistCompanionPage/static/css/main.8a28c97b.css.map",
-    "main.433c2568.js.map": "/AnilistCompanionPage/static/js/main.433c2568.js.map",
+    "main.e3aee962.css.map": "/AnilistCompanionPage/static/css/main.e3aee962.css.map",
+    "main.99cd5de5.js.map": "/AnilistCompanionPage/static/js/main.99cd5de5.js.map",
     "787.2d0d59c3.chunk.js.map": "/AnilistCompanionPage/static/js/787.2d0d59c3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a28c97b.css",
-    "static/js/main.433c2568.js"
+    "static/css/main.e3aee962.css",
+    "static/js/main.99cd5de5.js"
   ]
 }
