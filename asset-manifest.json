@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/AnilistCompanionPage/static/css/main.e3aee962.css",
-    "main.js": "/AnilistCompanionPage/static/js/main.e71a61f0.js",
+    "main.js": "/AnilistCompanionPage/static/js/main.82e9b73e.js",
     "static/js/787.2d0d59c3.chunk.js": "/AnilistCompanionPage/static/js/787.2d0d59c3.chunk.js",
     "static/media/Logo.png": "/AnilistCompanionPage/static/media/Logo.597e3357770861787e5b.png",
     "index.html": "/AnilistCompanionPage/index.html",
     "main.e3aee962.css.map": "/AnilistCompanionPage/static/css/main.e3aee962.css.map",
-    "main.e71a61f0.js.map": "/AnilistCompanionPage/static/js/main.e71a61f0.js.map",
+    "main.82e9b73e.js.map": "/AnilistCompanionPage/static/js/main.82e9b73e.js.map",
     "787.2d0d59c3.chunk.js.map": "/AnilistCompanionPage/static/js/787.2d0d59c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3aee962.css",
-    "static/js/main.e71a61f0.js"
+    "static/js/main.82e9b73e.js"
   ]
 }
